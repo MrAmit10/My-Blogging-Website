@@ -1,0 +1,15 @@
+
+.contact-content {
+    display: block;
+    height: 355px;
+    height: 85vh;
+    /* background-color: rgb(229, 236, 229);*/
+    margin-top: 32px;
+    padding: 10px;
+    background-image: url('../img/a4.jpg');
+    position: relative;
+    overflow: hidden;
+}
+.contact-form{
+    
+}
